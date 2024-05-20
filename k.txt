@@ -1,0 +1,2 @@
+k,k,wysoki,2004-12-12,praca,False
+a,a,niski,2004-11-11,praca,False
